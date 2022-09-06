@@ -24,4 +24,11 @@ git commit
 
 seguido de **_-m "commit_content"_** para darle una descripción al **commit**
 
+### Un comando Util
+Un comando util:
+```
+git commit -am "commit_message"
+```
+lo que hace este comando es juntar git add y git commit
+
 ![Git_Image](https://static.platzi.com/media/user_upload/Infograf%C3%ADa%201.1-44aabac2-3455-43c1-b469-f9ba55ccf850.jpg)
