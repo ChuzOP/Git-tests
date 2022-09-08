@@ -35,6 +35,6 @@ Tambien habran ocasiones en las que nos equivoquemos bindeando nuestros reposito
 ### Jalar archivos desde el repositorio en la nube a mi repositorio local
 
 Para hacer esto usaremos el **pull** a la rama donde queramos traer los elementos :
-```
+``` 
     git pull origin branch_name
 ```
